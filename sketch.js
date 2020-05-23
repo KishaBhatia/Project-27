@@ -38,12 +38,12 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(255,255,0);
+  background((255,255,191));
 
   textFont("Algerian");
   textSize(80);
   fill("blue"); 
-  text("Newtons Cradle",60,600);
+  text("Newton's Cradle",60,600);
 
   strokeWeight(20);
   line(790,0,790,700);
