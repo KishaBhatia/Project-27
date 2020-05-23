@@ -38,7 +38,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background((255,255,191));
+  background(255,255,224);
 
   textFont("Algerian");
   textSize(80);
